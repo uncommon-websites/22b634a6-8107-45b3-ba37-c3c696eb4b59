@@ -1,26 +1,26 @@
 <section class="py-24 bg-white">
   <div class="container-custom">
     <div class="text-center mb-16">
-        <p class="text-[10px] font-bold tracking-[0.2em] text-gray-400 uppercase mb-4">Fast growing companies love Plain</p>
-        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">Take their word for it</h2>
+        <p class="text-[10px] font-bold tracking-[0.2em] text-gray-400 uppercase mb-4">Trusted by product teams everywhere</p>
+        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">Don't just take our word for it</h2>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
         <!-- Large Testimonial (Granola) -->
         <div class="md:col-span-2 bg-[#3D0F15] rounded-2xl overflow-hidden text-white relative flex flex-col md:flex-row">
             <div class="p-10 md:p-16 flex-1 flex flex-col justify-center relative z-10">
-                <div class="text-2xl font-serif font-bold mb-12">granola|</div>
+                <div class="text-2xl font-sans font-bold mb-12">Soldo</div>
                 <div class="text-4xl text-white/20 absolute top-10 left-10 font-serif">“</div>
                 <p class="text-xl md:text-2xl font-medium leading-relaxed mb-10 relative z-10">
-                    We chose Plain because it was the right fit for our fast-moving team to get going quickly. It's helped us stay organized & responsive as we 100x-ed our users, and we're confident it will keep supporting us as we continue to grow.
+                    Ballpark helps us work smarter. We're able to build confidence across the entire business with quality data that comes in fast enough to actually inform our decisions.
                 </p>
                 <div class="flex items-center gap-4">
                     <div class="w-12 h-12 rounded bg-gray-700 overflow-hidden">
-                        <img src="https://ui-avatars.com/api/?name=Jo+Barrow&background=random" alt="Jo Barrow" />
+                        <img src="https://ui-avatars.com/api/?name=Brandon+Till&background=4A90E2" alt="Brandon Till" />
                     </div>
                     <div>
-                        <p class="font-bold text-sm">Jo Barrow</p>
-                        <p class="text-[10px] font-bold tracking-widest text-white/60 uppercase">Chief of Staff</p>
+                        <p class="font-bold text-sm">Brandon Till</p>
+                        <p class="text-[10px] font-bold tracking-widest text-white/60 uppercase">Head of Transformation, Soldo</p>
                     </div>
                 </div>
             </div>

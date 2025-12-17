@@ -14,67 +14,77 @@
         <div class="col-span-2 md:col-span-1">
             <a href="/" class="flex items-center gap-2 text-xl font-bold tracking-tight text-gray-900 mb-6">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-plain-green">
-                  <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" fill="currentColor"/>
-                  <path d="M15 9L10 16L8 13" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path
+                    fill-rule="evenodd"
+                    clip-rule="evenodd"
+                    d="M12.2566 21.954C17.929 21.954 22.5274 17.484 22.5274 11.9699C22.5274 6.45586 17.929 1.98584 12.2566 1.98584C6.58422 1.98584 1.98584 6.45586 1.98584 11.9699C1.98584 17.484 6.58422 21.954 12.2566 21.954ZM15.4608 6.63684C15.6167 6.09831 15.0791 5.77985 14.5881 6.1199L7.73395 10.8665C7.20146 11.2352 7.28522 11.9699 7.85977 11.9699H9.66465V11.9563H13.1823L10.3161 12.9394L9.05251 17.303C8.89655 17.8415 9.43412 18.16 9.92517 17.8199L16.7793 13.0734C17.3118 12.7046 17.228 11.9699 16.6535 11.9699H13.9165L15.4608 6.63684Z"
+                    fill="currentColor"
+                  />
                 </svg>
-                Plain
+                Ballpark
             </a>
         </div>
 
         <!-- Links Columns -->
         <div>
-            <h4 class="font-bold text-gray-900 mb-4">Product</h4>
+            <h4 class="font-bold text-gray-900 mb-4">Platform</h4>
             <ul class="space-y-3 text-sm text-gray-500">
-                <li><a href="#" class="hover:text-green-500">Pricing</a></li>
-                <li><a href="#" class="hover:text-green-500">Customers</a></li>
-                <li><a href="#" class="hover:text-green-500">Security</a></li>
-                <li><a href="#" class="hover:text-green-500">Integrations</a></li>
-                <li><a href="#" class="hover:text-green-500">Startup Program</a></li>
-                <li><a href="#" class="hover:text-green-500">Careers</a></li>
-                <li><a href="#" class="hover:text-green-500">Blog</a></li>
+                <li><a href="#" class="hover:text-purple-600">AI Interviewer</a></li>
+                <li><a href="#" class="hover:text-purple-600">Coach AI</a></li>
+                <li><a href="#" class="hover:text-purple-600">Participant Panel</a></li>
+                <li><a href="#" class="hover:text-purple-600">Research Methods</a></li>
+                <li><a href="#" class="hover:text-purple-600">Integrations</a></li>
+                <li><a href="#" class="hover:text-purple-600">Pricing</a></li>
+                <li><a href="#" class="hover:text-purple-600">Enterprise</a></li>
             </ul>
         </div>
 
         <div>
-            <h4 class="font-bold text-gray-900 mb-4">Channels</h4>
+            <h4 class="font-bold text-gray-900 mb-4">Research Methods</h4>
             <ul class="space-y-3 text-sm text-gray-500">
-                <li><a href="#" class="hover:text-green-500">Slack</a></li>
-                <li><a href="#" class="hover:text-green-500">Microsoft Teams</a></li>
-                <li><a href="#" class="hover:text-green-500">Discourse</a></li>
-                <li><a href="#" class="hover:text-green-500">Email</a></li>
-                <li><a href="#" class="hover:text-green-500">Help Center</a></li>
-                <li><a href="#" class="hover:text-green-500">In-app forms</a></li>
-                <li><a href="#" class="hover:text-green-500">Headless portal</a></li>
-                <li><a href="#" class="hover:text-green-500">Live Chat</a></li>
+                <li><a href="#" class="hover:text-purple-600">Surveys</a></li>
+                <li><a href="#" class="hover:text-purple-600">Video Interviews</a></li>
+                <li><a href="#" class="hover:text-purple-600">Prototype Testing</a></li>
+                <li><a href="#" class="hover:text-purple-600">Card Sorting</a></li>
+                <li><a href="#" class="hover:text-purple-600">First Click Tests</a></li>
+                <li><a href="#" class="hover:text-purple-600">Five Second Tests</a></li>
+                <li><a href="#" class="hover:text-purple-600">Website Testing</a></li>
             </ul>
         </div>
 
         <div>
             <h4 class="font-bold text-gray-900 mb-4">Resources</h4>
             <ul class="space-y-3 text-sm text-gray-500">
-                <li><a href="#" class="hover:text-green-500">Help Center</a></li>
-                <li><a href="#" class="hover:text-green-500">API Reference</a></li>
-                <li><a href="#" class="hover:text-green-500">Press Kit</a></li>
-                <li><a href="#" class="hover:text-green-500">Trust Center</a></li>
-                <li><a href="#" class="hover:text-green-500">Privacy</a></li>
-                <li><a href="#" class="hover:text-green-500">Terms</a></li>
-                <li><a href="#" class="hover:text-green-500">Data processing</a></li>
-                <li><a href="#" class="hover:text-green-500">Vulnerability</a></li>
+                <li><a href="#" class="hover:text-purple-600">Help Center</a></li>
+                <li><a href="#" class="hover:text-purple-600">Research Glossary</a></li>
+                <li><a href="#" class="hover:text-purple-600">Template Library</a></li>
+                <li><a href="#" class="hover:text-purple-600">Blog</a></li>
+                <li><a href="#" class="hover:text-purple-600">Trust Center</a></li>
+                <li><a href="#" class="hover:text-purple-600">API Docs</a></li>
+                <li><a href="#" class="hover:text-purple-600">Careers</a></li>
             </ul>
         </div>
 
         <div>
-            <h4 class="font-bold text-gray-900 mb-4">Support</h4>
+            <h4 class="font-bold text-gray-900 mb-4">Company</h4>
             <ul class="space-y-3 text-sm text-gray-500">
-                <li><a href="#" class="hover:text-green-500">Status</a></li>
-                <li><a href="#" class="hover:text-green-500">@plainsupport</a></li>
+                <li><a href="#" class="hover:text-purple-600">About</a></li>
+                <li><a href="#" class="hover:text-purple-600">Customers</a></li>
+                <li><a href="#" class="hover:text-purple-600">Status</a></li>
+                <li><a href="#" class="hover:text-purple-600">Privacy</a></li>
+                <li><a href="#" class="hover:text-purple-600">Terms</a></li>
+                <li><a href="#" class="hover:text-purple-600">@ballpark</a></li>
             </ul>
         </div>
     </div>
 
     <div class="border-t border-gray-100 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-        <p class="text-xs text-gray-400">© 2025 Plain</p>
-        <p class="text-xs text-gray-400">Not Just Tickets Ltd</p>
+        <p class="text-xs text-gray-400">© 2025 Ballpark</p>
+        <div class="flex items-center gap-4 text-xs text-gray-400">
+            <span>G2 Rating: 4.6 ⭐</span>
+            <span>•</span>
+            <span>SOC 2 Type II Compliant</span>
+        </div>
     </div>
   </div>
 </footer>

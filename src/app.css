@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 @theme {
-	/* Colors */
-	--color-plain-green: #25E68E;
+	/* Colors - Ballpark Brand */
+	--color-plain-green: oklch(0.623 0.214 259.815);
 	--color-plain-dark: #080a09;
 	--color-plain-dark-secondary: #131615;
 	--color-plain-gray: #f7f7f5;

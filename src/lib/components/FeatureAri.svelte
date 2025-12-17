@@ -4,15 +4,15 @@
       <!-- Text Content -->
       <div>
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-gray-200 text-xs font-bold uppercase tracking-wide mb-6">
-          <span class="w-4 h-4 rounded-full bg-green-100 flex items-center justify-center text-green-600">A</span>
-          Ari
+          <span class="w-4 h-4 rounded-full bg-purple-100 flex items-center justify-center text-purple-600">AI</span>
+          AI Interviewer
         </div>
-        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Act instantly</h2>
+        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Scale conversations</h2>
         <p class="text-lg text-gray-500 mb-8 leading-relaxed">
-          Ari handles the routine, the repetitive, and the ready-to-automate. Ari frees your human team for the moments that matter: complex, revenue-impacting interactions.
+          Our AI interviewer conducts hundreds of simultaneous interviews, asking follow-up questions and adapting to responses in real-time. Get the depth of qualitative research at quantitative scale.
         </p>
-        <a href="#" class="inline-flex items-center text-sm font-bold text-green-500 uppercase tracking-wide hover:text-green-600">
-          Discover Ari <span class="ml-2">→</span>
+        <a href="#" class="inline-flex items-center text-sm font-bold text-purple-600 uppercase tracking-wide hover:text-purple-700">
+          Learn More <span class="ml-2">→</span>
         </a>
       </div>
 
